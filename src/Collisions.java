@@ -1,0 +1,3 @@
+public enum Collisions {
+    MOVE, HUMAN_ALZURES_SHIELD, TURTLE_COUNTER, GUARANA_BOOST, DEATH
+}
